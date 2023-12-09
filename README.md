@@ -35,6 +35,6 @@ El proceso del proyecto, a grandes rasgos se presenta a continuación, se desarr
 
 El proyecto fue realizado en equipo conformado de la siguiente manera:
 
-* David Gómez Torres
 * Luis Gerardo Soria Silva
 * Abel Rodruiguez Santillan
+* David Gómez Torres
