@@ -31,6 +31,7 @@ Obtener datos sobre la venta de Suero y Lactosa para responder preguntas relacio
    4.1. Hacemos un análisis de residuos para observar si existe un patrón que nos indique un error sistemático.
    
 5. **Precio dinámico:**
+   
    5.1. *Datos sinteticos.* Los datos tienen 2mil toneladas como mínimo y 10mil como máximo, por         producto. La media es de 5mil, aproximadamente; desviación estándar de ±2mil toneladas           para lactosa y ±1.5 mil toneladas para suero (whey).
 
    5.2. *Compra condicionada.* La compra de un solo cliente está limitada a menos del 50% del             inventario total. Hay dos tipos de clientes, un cliente A y uno B. El cliente B
